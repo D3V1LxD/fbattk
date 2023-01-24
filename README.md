@@ -12,7 +12,7 @@ Bruteforce attack, For educational purpose only
 ## Run commands one by one
 ```
 >> git clone https://github.com/D3V1LxD/fbattk.git
->> cd fbboot
+>> cd fbattk
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
 >> python3 fb.py or python fb2.py
